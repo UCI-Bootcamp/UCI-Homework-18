@@ -1,0 +1,24 @@
+{
+  "name": "UCI-Homework-18",
+  "version": "1.0.0",
+  "description": "18: Progressive Budget",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCI-Bootcamp/UCI-Homework-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCI-Bootcamp/UCI-Homework-18/issues"
+  },
+  "homepage": "https://github.com/UCI-Bootcamp/UCI-Homework-18#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
